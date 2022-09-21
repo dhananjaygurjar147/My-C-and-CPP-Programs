@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643015591 source:d:\codeblocks\cpp files\manipulators\main.cpp
+	<iostream>
+	<iomanip>
+

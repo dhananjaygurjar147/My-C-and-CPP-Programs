@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660537121 source:d:\codeblocks\cpp files\concatenate two strings\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

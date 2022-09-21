@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659166925 source:d:\codeblocks\cpp files\merge two sorted array\main.cpp
+	<iostream>
+	<vector>
+

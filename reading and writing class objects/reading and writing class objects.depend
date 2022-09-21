@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644471786 source:d:\codeblocks\cpp files\reading and writing class objects\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+

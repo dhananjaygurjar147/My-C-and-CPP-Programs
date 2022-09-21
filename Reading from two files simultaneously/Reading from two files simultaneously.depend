@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644377949 source:d:\codeblocks\cpp files\reading from two files simultaneously\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+

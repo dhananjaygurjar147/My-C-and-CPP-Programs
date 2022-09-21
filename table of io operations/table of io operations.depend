@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643082180 source:d:\codeblocks\cpp files\table of io operations\main.cpp
+	<iostream>
+	<iomanip>
+

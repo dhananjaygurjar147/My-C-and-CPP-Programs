@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1644475360 source:d:\codeblocks\cpp files\telephone list operations\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string.h>
+

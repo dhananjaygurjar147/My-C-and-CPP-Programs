@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643625418 source:d:\codeblocks\cpp files\calculator using functions\main.cpp
+	<iostream>
+	<iomanip>
+
